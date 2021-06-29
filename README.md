@@ -1,4 +1,4 @@
-# Spotify_Music_Analysis
+# Spotify Musical Data Analysis
 
 
 ## Table of contents
